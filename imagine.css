@@ -1,0 +1,21 @@
+h2 {
+	font-size: arial;
+	color: brown;
+}
+.paragrafo1 {
+	font-family: arial;
+	color: brown;
+	font-size: 12px;
+}
+.paragrafo2 {
+	font-size: arial;
+	color: brown;
+	font-size: 12px;
+	text-align: center;
+}
+.paragrafo3 {
+	font-family: arial;
+	color: brown;
+	font-size: 12px;
+	text-align: right;
+}
